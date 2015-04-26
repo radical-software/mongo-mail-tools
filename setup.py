@@ -16,8 +16,8 @@ def get_readme():
 
 setup(
     name='mongo-mail-tools',
-    version="0.1.0",
-    url='https://github.com/srault95/mongo-mail-tools', 
+    version="0.1.1",
+    url='https://github.com/radical-software/mongo-mail-tools', 
     description='Mail Tools for testing and demo',
     long_description=get_readme(),
     author='Stéphane RAULT',
